@@ -78,7 +78,6 @@ public class GT4500 implements SpaceShip {
 
       case ALL:
         // try to fire both of the torpedo stores
-        //TODO implement feature
         // Initialize variable to track if at least one torpedo was successfully fired
         boolean primaryFired = false;
         boolean secondaryFired = false;
